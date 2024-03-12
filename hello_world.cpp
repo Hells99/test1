@@ -5,4 +5,5 @@ void main(){
      std::string name;
      std::cin>>name;
      std::cout<<"Hello world from "<<name<<endl;
+     std::cout<<"asfdsgsdgsdh"<<endl;
 }
