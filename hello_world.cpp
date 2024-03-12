@@ -1,10 +1,8 @@
 #include <iostream>
-#include <str>
-
-using namespace std;
-
+#include <string>
 void main(){
-     string name;
-     cin>>name;
-    cout<<"Hello world from "<<name<<endl;
+     std::cout<<"Your name: "
+     std::string name;
+     std::cin>>name;
+     std::cout<<"Hello world from "<<name<<endl;
 }
